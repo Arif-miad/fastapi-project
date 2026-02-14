@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arif-miad/fastapi-project/main/assets/cover.png" height="600px" alt="Project Banner">
+</p>
+
 
 
 ---
